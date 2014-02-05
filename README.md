@@ -74,7 +74,6 @@ First column is the word to find, and second column the word to change.
 
 Each line is written in the search word and separated by a weighted replacement as seen in this example:
 
-carrito	cesto
 Ver	O seu
 
 #SPA
@@ -151,5 +150,4 @@ La primera columna sería la palabra a cambiar y la segunda la palabra que va a 
 
 Se escribe en cada línea la palabra a buscar y la de remplazo separadas por un tabulado como se puede ver en este ejemplo:
 
-carrito	cesto
 Ver	O seu
