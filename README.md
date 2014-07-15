@@ -25,7 +25,7 @@ If you didn't install pip, before, you need (in Ubuntu):
 sudo apt-get install python-pip
 ```
 
-Remenber that you need admin permissions.
+Remember that you need admin permissions.
    
 ## Getting Started
 This script is easy to use.
